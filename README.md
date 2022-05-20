@@ -1,7 +1,7 @@
 [![kNNmdD.png](https://user-images.githubusercontent.com/96705270/169195089-c5173ee9-ea01-46ea-bfe0-d44fd3e2d4a6.png)](https://user-images.githubusercontent.com/96705270/169195089-c5173ee9-ea01-46ea-bfe0-d44fd3e2d4a6.png)
 
 
-For a better visual experience, go here: [30 Seconds on itch.io](https://seanhlewis.itch.io/30seconds)
+For a better visual experience, go here: [30 Seconds on itch.io](https://seanhlewis.itch.io/30seconds)  
 For the best visual experience, go here: [30 Seconds Website](https://thirty-second.web.app/)
 
 30 Seconds is a fun, time-limit puzzle game where a cat chases a shiny key through many short puzzles.
